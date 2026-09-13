@@ -46,5 +46,17 @@
         "date": "16 April 2026",
         "status": "Working",
         "pass": "Ayat12345678"
+    },
+    {
+        "ssid": "Joynal Soyal",
+        "date": "13 September 2026",
+        "status": "Working",
+        "pass": "Joyner&#039;s wheel 5G"
+    },
+    {
+        "ssid": "Joynal Soyal-5G",
+        "date": "13 September 2026",
+        "status": "Working",
+        "pass": "JoynalSoyal-5G"
     }
 ]
