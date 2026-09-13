@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "features": [
+    "নতুন ফ্রি ওয়াইফাই কানেকশন স্পিড অপ্টিমাইজেশন",
+    "অটো আপডেট পপ-আপ ফক্স ফিচার যুক্ত করা হয়েছে",
+    "কিছু ছোটোখাটো বাগ ও ক্র্যাশ ফিক্স করা হয়েছে"
+  ],
+  "apkUrl": "https://github.com/jusfuka6-bit/Apk_Verson/releases/download/v1.1/app-release.apk"
+}
