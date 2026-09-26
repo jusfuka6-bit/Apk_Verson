@@ -3,60 +3,70 @@
         "ssid": "Nayem",
         "date": "08 February 2026",
         "status": "Not Working",
-        "pass": "43214321"
+        "pass": "43214321",
+        "security": "WPA"
     },
     {
         "ssid": "Manik Molla",
         "date": "08 April 2026",
         "status": "Working",
-        "pass": "surujmolla"
+        "pass": "surujmolla",
+        "security": "WPA"
     },
     {
         "ssid": "Monir topadar",
         "date": "14 Sep 2026",
         "status": "Working",
-        "pass": "01234567"
+        "pass": "01234567",
+        "security": "WPA"
     },
     {
         "ssid": "Molla Networks",
         "date": "08 April 2026",
         "status": "Working",
-        "pass": "01955407770"
+        "pass": "01955407770",
+        "security": "WPA"
     },
     {
         "ssid": "Habib tapadar",
         "date": "08 April 2026",
         "status": "Working",
-        "pass": "habib916"
+        "pass": "habib916",
+        "security": "WPA"
     },
     {
         "ssid": "Sakib Topadar 4G",
         "date": "08 April 2026",
         "status": "Working",
-        "pass": "12345678"
+        "pass": "12345678",
+        "security": "WPA"
     },
     {
         "ssid": "Sakib Topadar 5G",
         "date": "08 April 2026",
         "status": "Working",
-        "pass": "12345678"
+        "pass": "12345678",
+        "security": "WPA"
     },
     {
         "ssid": "Ayat",
         "date": "16 April 2026",
         "status": "Working",
-        "pass": "Ayat12345678"
+        "pass": "Ayat12345678",
+        "security": "WPA"
     },
     {
         "ssid": "Joynal Soyal",
         "date": "13 September 2026",
         "status": "Working",
-        "pass": "Joyner&#039;s wheel 5G"
+        "pass": "Joyner&#039;s wheel 5G",
+        "security": "WPA"
     },
     {
         "ssid": "Joynal Soyal-5G",
         "date": "13 September 2026",
         "status": "Working",
-        "pass": "JoynalSoyal-5G"
+        "pass": "JoynalSoyal-5G",
+        "security": "WPA"
     }
 ]
